@@ -1,7 +1,7 @@
 # Application Name: Online Out Pass Service (OOPS)
 
 ## Overview
-This application is designed to manage student and teacher leave requests, with role-based access for students, teachers, and wardens. It provides a user-friendly interface for logging in and handling leave applications.
+Online Out Pass Service (OOPS) is a role-based leave and out-pass management system for students, teachers, and wardens. It provides a simple interface for users to request, approve, or reject leave applications efficiently. The system currently stores user details in an Excel file and can be expanded with database integration in the future.
 
 ## Features
 - **Student Page:** Allows students to request leaves.
